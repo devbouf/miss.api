@@ -1,5 +1,5 @@
-[![Discord Server](https://discord.gg/https://discord.gg/xYBqvxQ)]
-[![API Site](http://miss.glitch.me)]
+![Discord Server](https://discord.gg/https://discord.gg/xYBqvxQ)
+![API Site](http://miss.glitch.me)
 # [en] miss.api
 
 ## Installation
