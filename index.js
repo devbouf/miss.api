@@ -1,6 +1,6 @@
 const http = require("http")
 
-module.exports.api = async(content) => {
+module.exports = async(content) => {
     return new Promise((resolve, reject) => {
         if(!content) return resolve(require('./endpoints.json'))
         const url = `http://miss.glitch.me/api/${content}`
