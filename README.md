@@ -1,4 +1,4 @@
-![Discord Server](https://discord.gg/https://discord.gg/xYBqvxQ)
+![Discord Server](https://discord.gg/https://discord.gg/eYuggsY)
 ![API Site](http://miss.glitch.me)
 # [en] miss.api
 
@@ -35,9 +35,11 @@
 
 ## Exaples
 ```js
-const app = require("miss.api")
+const image = require("missapi")
 
-console.log(app.api("/v2/cat")) //Instead of 'cat', you can insert another value that is available in ./endpoints.json
+image.then(url => {
+console.log(url) //Instead of 'cat', you can insert another value that is available in ./endpoints.json
+})
 ```
 Returns:
 "https://cdn.discordapp.com/attachments/673255125908848673/678578329305219112/d2933e70f6cc2673.jpg"
@@ -77,9 +79,11 @@ Returns:
 
 ## Пример использования
 ```js
-const app = require("miss.api")
+const image = require("missapi")
 
-console.log(app.api("/v2/cat")) //Вместо 'cat' вы можете вставить другое значение, которое имеется в endpoints.json
+image.then(url => {
+console.log(url) //Вместо 'cat' вы можете вставить другое значение, которое имеется в endpoints.json
+})
 ```
 Получим:
 "https://cdn.discordapp.com/attachments/673255125908848673/678578329305219112/d2933e70f6cc2673.jpg"
