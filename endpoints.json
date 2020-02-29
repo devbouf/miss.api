@@ -1,24 +1,24 @@
 {
-  "memes(only russian)": "/v2/meme",
-    "animals": {
-        "cat": "/v2/cat",
-        "dog": "/v2/dog",
-        "fox": "/v2/fox",
-        "koal": "/v2/koal",
-        "pand": "/v2/pand",
-        "snake": "/v2/snake",
-        "squirrel": "/v2/squirrel"
-    },
-    "nsfw-real(soon)": {
-        "porn": "/v2/porn",
-        "ass": "/v2/ass",
-        "pussy": "/v2/pussy",
-        "boobs": "/v2/boobs"
-    },
-    "nsfw-anime": {
-        "hentai": "/v2/hentai"
-    },
-    "sfw": {
-        "kiss": "/v2/kiss"
-    }
-}
+    "supportServer": "https://discord.gg/eYuggsY",
+
+    "memes(only russian)": "/v2/meme",
+      "animals": {
+          "cat": "/v2/cat",
+          "dog": "/v2/dog",
+          "fox": "/v2/fox",
+          "koal": "/v2/koal",
+          "pand": "/v2/pand",
+          "snake": "/v2/snake",
+          "squirrel": "/v2/squirrel"
+      },
+      "nsfw-real": {
+          "ass": "/v2/real_ass",
+          "pussy": "/v2/real_pussy"
+      },
+      "nsfw-anime": {
+          "hentai": "/v2/hentai"
+      },
+      "sfw": {
+          "kiss": "/v2/kiss"
+      }
+  }
