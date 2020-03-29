@@ -1,6 +1,6 @@
 {
-  "name": "miss.api",
-  "version": "0.0.1",
+  "name": "missapi",
+  "version": "0.0.4",
   "description": " ",
   "main": "index.js",
   "scripts": {
