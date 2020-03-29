@@ -1,93 +1,34 @@
 ![Discord Server](https://discord.gg/https://discord.gg/eYuggsY)
 ![API Site](http://miss.glitch.me)
-# [en] miss.api
+# miss.api
 
 ## Installation
 ```
-> npm install miss.api
+> npm install missapi
+
+> yarn add missapi
 ```
-### Animals
-| Functions |
-|-----------|
-| `cat` |
-| `dog` |
-| `koal` |
-| `fox` |
+### Content
+| Animals | Nsfw-Anime | Nsfw-Real | Sfw | Other |
+|-----------| -----------| -----------| -----------| -----------|
+| `cat` | `hentai` | `real_ass` | `kiss` | `meme` |
+| `dog` | | `real_pussy` | `hug` |
+| `koal` | `pussy` | `real_boobs` | `feed` |
+| `fox` | `boobs` |
 | `pand` |
 | `snake` |
 | `squirrel` |
+| `turtle` |
+| `wolf` |
+| `giraffe` |
 
-### Nsfw-Anime
-| Functions |
-|-----------|
-| `hentai` |
-
-### Sfw
-| Functions |
-|-----------|
-| `kiss` |
-
-### Memes
-| Functions |
-|-----------|
-| `meme` |
-
-
-## Exaples
+## Examples
 ```js
-const image = require("missapi")
-
-image.then(url => {
-console.log(url) //Instead of 'cat', you can insert another value that is available in ./endpoints.json
-})
+const image = await require("missapi")('/v2/cat')
+console.log(image)
 ```
 Returns:
 "https://cdn.discordapp.com/attachments/673255125908848673/678578329305219112/d2933e70f6cc2673.jpg"
-
-# [ru] miss.api
-
-## Установка
-```
-> npm install miss.api
-```
-### Животные
-| Функции |
-|-----------|
-| `cat` |
-| `dog` |
-| `koal` |
-| `fox` |
-| `pand` |
-| `snake` |
-| `squirrel` |
-
-### Аниме-nsfw
-| Функции |
-|-----------|
-| `hentai` |
-
-### РП Контент
-| Функции |
-|-----------|
-| `kiss` |
-
-### Мемы
-| Функции |
-|-----------|
-| `meme` |
-
-
-## Пример использования
-```js
-const image = require("missapi")
-
-image.then(url => {
-console.log(url) //Вместо 'cat' вы можете вставить другое значение, которое имеется в endpoints.json
-})
-```
-Получим:
-"https://cdn.discordapp.com/attachments/673255125908848673/678578329305219112/d2933e70f6cc2673.jpg"
-
 
 - This api was just created, in the future it will improve!
 
