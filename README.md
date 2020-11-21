@@ -14,7 +14,7 @@
 | `cat` | `hentai` | `real_ass` | `kiss` | `meme` |
 | `dog` | `sex` | `real_pussy` | `hug` |
 | `koal` | `pussy` | `real_boobs` | `feed` |
-| `fox` | `boobs` |
+| `fox` | `boobs` | | `view` |
 | `pand` |
 | `snake` |
 | `squirrel` |
