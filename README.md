@@ -12,7 +12,7 @@
 | Animals | Nsfw-Anime | Nsfw-Real | Sfw | Other |
 |-----------| -----------| -----------| -----------| -----------|
 | `cat` | `hentai` | `real_ass` | `kiss` | `meme` |
-| `dog` | | `real_pussy` | `hug` |
+| `dog` | `sex` | `real_pussy` | `hug` |
 | `koal` | `pussy` | `real_boobs` | `feed` |
 | `fox` | `boobs` |
 | `pand` |
