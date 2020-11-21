@@ -9,18 +9,18 @@
 > yarn add missapi
 ```
 ### Content
-| Animals | Nsfw-Anime | Nsfw-Real | Sfw | Other |
-|-----------| -----------| -----------| -----------| -----------|
-| `cat` | `hentai` | `real_ass` | `kiss` | `meme` |
-| `dog` | `sex` | `real_pussy` | `hug` |
-| `koal` | `pussy` | `real_boobs` | `feed` |
-| `fox` | `boobs` | | `view` |
-| `pand` |
-| `snake` |
+| Animals    | NSFW-Anime  | NSFW-Real    | SFW    | Other   | Reactions |
+|------------|-------------|--------------|--------|---------|-----------|
+| `cat`      | `hentai`    | `porn`       | `hug`  | `meme`  | `angry`   |
+| `dog`      | `hentaigif` | `real_ass`   | `kiss` |         | `dance`   |
+| `koal`     | `ass`       | `real_pussy` | `cry`  |         |           |
+| `fox`      | `pussy`     | `real_boobs` | `kill` |         |           |
+| `pand`     | `boobs`     |              | `sex`  |         |           |
+| `snake`    |             |              | `view` |         |           |
 | `squirrel` |
-| `turtle` |
-| `wolf` |
-| `giraffe` |
+| `turtle`   |
+| `wolf`     |
+| `giraffe`  |
 
 ## Examples
 ```js
