@@ -1,5 +1,6 @@
-![Discord Server](https://discord.gg/https://discord.gg/eYuggsY)
+![Discord Server](https://discord.gg/RPb2KXN)
 ![API Site](http://miss.glitch.me)
+![Npm](https://www.npmjs.com/package/missapi)
 # miss.api
 
 ## Installation
@@ -25,6 +26,12 @@
 ## Examples
 ```js
 const image = await require("missapi")('/v2/cat')
+
+let Embed = new Discord.MessageEmbed()
+.setTitle(`Cat!`)
+.setImage(image)
+.setColor(`#9ee7da`)
+message.channel.send(Embed)
 console.log(image)
 ```
 Returns:
